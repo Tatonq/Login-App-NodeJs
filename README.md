@@ -16,6 +16,7 @@
 7.mongoose
 8.mongoose-unique-validator
 ```
+## Install
 ```
 npm i bcryptjs body-parser dotenv ejs express jsonwebtoken mongoose mongoose-unique-validator nodemon
 ```
